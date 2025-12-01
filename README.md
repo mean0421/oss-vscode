@@ -36,6 +36,12 @@ int main(){
     </tr>
 </table>
 
+<b>볼드</b>, **볼드**  
+<i>기울기</i>, _기울기_, *기울기*  
+<ins>밑줄</ins>  
+~취소선~  
+<b><i><ins>뭘봐</ins></i></b>
+
 체크리스트
 - [x] 오늘
 - [ ] 이번달
@@ -49,11 +55,7 @@ int main(){
 
 # 2. 리눅스
 > 아래 내용은 **Ubuntu 기준**으로 작성됨  
-> <b>볼드</b>, **볼드**  
-> <i>기울기</i>, _기울기_, *기울기*  
-> <ins>밑줄</ins>  
-> ~취소선~  
-> <b><i><ins>뭘봐</ins></i></b>
+
 ## 2.1. 명령어 종류
 1. 파일 관리 : `ls`, `cd`, `mkdir`, `redir`, `touch`, `vi`, `cat`, `mv`, `rm`, `find`
 2.  쉘 : `chsh`, `echo`, `export`, `alias`, `unalias`, `history` 
