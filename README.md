@@ -47,6 +47,9 @@ int main(){
 - [ ] 이번달
 - [ ] 올해
 
+링크  
+[충북대학교](https://www.cbnu.ac.kr/www/index.do) 
+
 # oss-vscode
 # 1. 오픈소스 소프트웨어
 - 오픈 소스 라이선스 종류 : GPL, Apache License, MIT, BSD, CC ,MPL, AGPL
